@@ -152,9 +152,9 @@ I have designed this project for Windows and Linux systems.
 ---
 
 ### 🙋‍♂️ Author
-**Muhammad Ashir**
-Student of FAST-NUCES
+**Muhammad Ashir**<br>
+Student of FAST-NUCES<br>
 For contributions or queries, feel free to connect on [LinkedIn/Ashir-Qayyum](https://www.linkedin.com/in/ashir-qayyum).
 
-### 📜 License
+### 📜 License<br>
 This project is licensed for educational and academic use. Attribution is appreciated.
